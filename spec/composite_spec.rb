@@ -112,6 +112,7 @@ describe CompositeTask do
       end
     end
   end
+
 end
 
 
